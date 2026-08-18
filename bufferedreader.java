@@ -17,7 +17,7 @@ public class bufferedreader {
         System.out.print("Enter your marks: ");
         double marks = Double.parseDouble(br.readLine());
 
-        System.out.println("\n----- Student Details -----");
+        System.out.println("----- Student Details -----");
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
         System.out.println("Marks: " + marks);
